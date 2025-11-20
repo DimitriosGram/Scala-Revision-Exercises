@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Scala-Revision-Exercisesr/Revision-Tasks/.idea/modules/Revision-Tasks/Revision-Tasks.iml" filepath="$PROJECT_DIR$/../Scala-Revision-Exercisesr/Revision-Tasks/.idea/modules/Revision-Tasks/Revision-Tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Scala-Revision-Exercisesr/Revision-Tasks/.idea/modules/Revision-Tasks/Revision-Tasks.Revision-Tasks-build.iml" filepath="$PROJECT_DIR$/../Scala-Revision-Exercisesr/Revision-Tasks/.idea/modules/Revision-Tasks/Revision-Tasks.Revision-Tasks-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Scala-Revision-Exercisesr/Revision-Tasks/.idea/modules/Revision-Tasks/Revision-Tasks.main.iml" filepath="$PROJECT_DIR$/../Scala-Revision-Exercisesr/Revision-Tasks/.idea/modules/Revision-Tasks/Revision-Tasks.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Scala-Revision-Exercisesr/Revision-Tasks/.idea/modules/Revision-Tasks/Revision-Tasks.test.iml" filepath="$PROJECT_DIR$/../Scala-Revision-Exercisesr/Revision-Tasks/.idea/modules/Revision-Tasks/Revision-Tasks.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Scala-Revision-Exercises.iml" filepath="$PROJECT_DIR$/.idea/Scala-Revision-Exercises.iml" />
+    </modules>
+  </component>
+</project>
